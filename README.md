@@ -1,13 +1,14 @@
 ## 个人简历
 
 - 周理强 / 男 / 1995
-- 工作年限 / 经验：3年
-- 技术博客：http://i66.me
+- 工作经验：2年
+- 技术博客：https://i66.me
 - Github：[LeachZhou](https://github.com/LeachZhou)
 - 期望职位：前端工程师
 - 期望城市：上海
 - 户籍所在地：安徽芜湖
 - 邮箱：leachzhou@163.com
+- QQ/微信：1178539345
 
 ## 技术清单
 - 熟练使用HTML5、CSS3，熟悉Less、rem、flex等技术，对浏览器兼容问题、移动端适配问题有一定的经验和解决方案
@@ -43,9 +44,10 @@
 
 ## 开源项目
 
-### 一步一友
+### :school_satchel: 一步一友
 
-[【源码】](https://github.com/LeachZhou/lvyou) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=Lvyou&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+[【源码】](https://github.com/LeachZhou/lvyou) 
+
 
 项目介绍：
 
@@ -53,13 +55,15 @@
 
 项目页面：
 
-<img src="https://camo.githubusercontent.com/c1325f7776cf011d7bd8469b6167649bd845df45/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303832393132333034">
-<img style="float:left" src="https://camo.githubusercontent.com/dc96fa640124284afd05e05611239a0d6885a694/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303833303038323031">
-<img style="float:left" src="https://camo.githubusercontent.com/00522903988d01e1be3f84106586bcc65d4196ad/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303833303435323532">
+<img width="30%" src="https://camo.githubusercontent.com/c1325f7776cf011d7bd8469b6167649bd845df45/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303832393132333034">
+<img width="30%" src="https://camo.githubusercontent.com/dc96fa640124284afd05e05611239a0d6885a694/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303833303038323031">
+<img width="30%" src="https://camo.githubusercontent.com/00522903988d01e1be3f84106586bcc65d4196ad/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303833303435323532">
 
-### 小桥酒馆博客
+### :black_nib: 小桥酒馆博客
 
-[【预览】](https://leachzhou.github.io/blog) [【源码】](https://github.com/LeachZhou/blog) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=blog&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+[【预览】](https://leachzhou.github.io/blog) 
+[【源码】](https://github.com/LeachZhou/blog)
+
 
 项目介绍：
 
@@ -80,9 +84,10 @@
 
 ![image](https://user-images.githubusercontent.com/18715564/44386676-c6bedb00-a555-11e8-9322-80e001436e0b.png)
 
-### Vue高德地图
+### :world_map: Vue高德地图
 
-[【预览】](https://leachzhou.github.io/vue-amap-demo) [【源码】](https://github.com/LeachZhou/vue-amap-demo) <object data="https://img.shields.io/github/star/LeachZhou/vue-amap-demo.svg?style=social&label=Star" alt=""></object>
+[【预览】](https://leachzhou.github.io/vue-amap-demo) 
+[【源码】](https://github.com/LeachZhou/vue-amap-demo)
 
 项目介绍：
 
@@ -98,9 +103,11 @@
 
 ![image](https://user-images.githubusercontent.com/18715564/44387933-73e72280-a559-11e8-9687-d6c22c3199fc.png)
 
-### 人性化时间原生JS插件
+### :watch: 人性化时间原生JS插件
 
-[【源码】](https://leachzhou.github.io/friendlytimejs) [【NPM】](https://www.npmjs.com/package/friendlytimejs) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=friendlytimejs&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+[【源码】](https://leachzhou.github.io/friendlytimejs) 
+[【NPM】](https://www.npmjs.com/package/friendlytimejs) 
+
 
 项目介绍：
 
