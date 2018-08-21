@@ -21,7 +21,6 @@
 - 熟悉MVC模式，能够运用PHP和ThinkPHP进行相关web开发
 - 掌握sql语句，掌握操作MySQL等数据库工具
 - 掌握前端网站性能优化，SEO优化
-- 熟练PS制图软件及插件Cutterman的操作
 
 ## 工作经历
 
@@ -46,7 +45,7 @@
 
 ### 一步一友
 
-[源码](https://github.com/LeachZhou/lvyou) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=Lvyou&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+[【源码】](https://github.com/LeachZhou/lvyou) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=Lvyou&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 项目介绍：
 
@@ -54,17 +53,13 @@
 
 项目页面：
 
-![1](https://camo.githubusercontent.com/26c8ba9987286e985c3f795686da8c3069cd759c/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132313130313136373431)
-
-![2](https://camo.githubusercontent.com/c1325f7776cf011d7bd8469b6167649bd845df45/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303832393132333034)
-
-![3](https://camo.githubusercontent.com/dc96fa640124284afd05e05611239a0d6885a694/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303833303038323031)
-
-![4](https://camo.githubusercontent.com/00522903988d01e1be3f84106586bcc65d4196ad/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303833303435323532)
+<img src="https://camo.githubusercontent.com/c1325f7776cf011d7bd8469b6167649bd845df45/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303832393132333034">
+<img style="float:left" src="https://camo.githubusercontent.com/dc96fa640124284afd05e05611239a0d6885a694/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303833303038323031">
+<img style="float:left" src="https://camo.githubusercontent.com/00522903988d01e1be3f84106586bcc65d4196ad/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303833303435323532">
 
 ### 小桥酒馆博客
 
-[预览](https://leachzhou.github.io/blog) [源码](https://github.com/LeachZhou/blog) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=blog&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+[【预览】](https://leachzhou.github.io/blog) [【源码】](https://github.com/LeachZhou/blog) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=blog&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 项目介绍：
 
@@ -83,15 +78,11 @@
 
 项目页面：
 
-![image](https://user-images.githubusercontent.com/18715564/44386644-b0b11a80-a555-11e8-844d-992093c9b40a.png)
-
 ![image](https://user-images.githubusercontent.com/18715564/44386676-c6bedb00-a555-11e8-9322-80e001436e0b.png)
-
-![image](https://user-images.githubusercontent.com/18715564/44386774-10a7c100-a556-11e8-986a-d1b24aaddc76.png)
 
 ### Vue高德地图
 
-[预览](https://leachzhou.github.io/vue-amap-demo) [源码](https://github.com/LeachZhou/vue-amap-demo) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=vue-amap-demo&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+[【预览】](https://leachzhou.github.io/vue-amap-demo) [【源码】](https://github.com/LeachZhou/vue-amap-demo) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=vue-amap-demo&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 项目介绍：
 
@@ -107,13 +98,9 @@
 
 ![image](https://user-images.githubusercontent.com/18715564/44387933-73e72280-a559-11e8-9687-d6c22c3199fc.png)
 
-![image](https://user-images.githubusercontent.com/18715564/44387996-97aa6880-a559-11e8-828b-0a827e626d8b.png)
-
-![image](https://user-images.githubusercontent.com/18715564/44388071-c0326280-a559-11e8-907e-1563740889e2.png)
-
 ### 人性化时间原生JS插件
 
-[预览](https://leachzhou.github.io/friendlytimejs) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=friendlytimejs&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+[【源码】](https://leachzhou.github.io/friendlytimejs) [【NPM】](https://www.npmjs.com/package/friendlytimejs) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=friendlytimejs&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 项目介绍：
 
