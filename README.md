@@ -82,7 +82,7 @@
 
 ### Vue高德地图
 
-[【预览】](https://leachzhou.github.io/vue-amap-demo) [【源码】](https://github.com/LeachZhou/vue-amap-demo) <iframe src="https://ghbtns.com/github-btn.html?user=LeachZhou&repo=vue-amap-demo&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+[【预览】](https://leachzhou.github.io/vue-amap-demo) [【源码】](https://github.com/LeachZhou/vue-amap-demo) <object data="https://img.shields.io/github/star/LeachZhou/vue-amap-demo.svg?style=social&label=Star" alt=""></object>
 
 项目介绍：
 
