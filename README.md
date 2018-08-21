@@ -108,7 +108,6 @@
 [【源码】](https://leachzhou.github.io/friendlytimejs) 
 [【NPM】](https://www.npmjs.com/package/friendlytimejs) 
 
-
 项目介绍：
 
 原生JS插件，人性化时间/友好时间的插件，将一个时间字符串格式（yyyy-MM-dd HH:mm:ss）显示友好时间（如，1分钟内，2分钟前等等）。
@@ -120,3 +119,6 @@
 
 ## 毕业院校
 大专 / 安徽电子信息职业技术学院
+
+------------------------
+_最后更新于：2017年08月21_
