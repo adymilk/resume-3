@@ -29,17 +29,88 @@
 
 #### 北风网移动端
 
-稍后补充...
+[【预览】](https://m.ibeifeng.com) 
 
-~~技术栈：vue2.0 vuex vue-router axios less localstorage cookies cors 等~~
+项目介绍：北风网移动端项目基本为推广页站点，总共有5个域名的站点，内容各不相同(只放出了一个预览)，在功能方面，主要进行来源信息采集及用户信息收集，用来进行SEM推广，暂无SEO要求。
 
-~~主要功能：~~
+主要职责：主要负责北风网移动端的改版、开发及维护
 
-~~工作职责：~~
-- ~~前端技术选型 使用vue技术栈~~
-- ~~项目开发环境搭建 webpack配置~~
-- ~~配合后台完成前后端交互~~
-- ~~webpack打包优化~~
+技术栈：
+
+- vw（移动端适配方案）
+- wow.js（特效解决方案）
+- fastclick.js（取消移动端点击延迟方案）
+- swiper.js（移动端滑动方案）
+
+项目页面：
+
+<img width="30%" src="https://user-images.githubusercontent.com/18715564/44453952-dfe68b00-a62c-11e8-9dab-ed264aaa7d1c.png">  <img width="30%" src="https://user-images.githubusercontent.com/18715564/44454130-466ba900-a62d-11e8-839e-506dd54ae03c.png">  <img width="30%" src="https://user-images.githubusercontent.com/18715564/44454205-7dda5580-a62d-11e8-880d-04b68566b8e5.png">
+
+#### 北风网PC端
+
+[【预览】](https://www.ibeifeng.com) 
+
+项目介绍：北风网PC端项目总共有7个域名站点，公司新出课程或活动就会新增活动页，页面需要部署到多个站点，我们采用PHP后端引入渲染方案，成功做到活动页一改七改的效果。
+
+主要职责：主要负责北风网PC端的部分改版及维护。
+
+项目页面：
+
+![](https://user-images.githubusercontent.com/18715564/44455097-cb57c200-a62f-11e8-9a58-959c6237880d.png)
+
+![](https://user-images.githubusercontent.com/18715564/44454963-72882980-a62f-11e8-9fe6-e6bd01d8a65c.png)
+
+### 上海睦诚商务有限公司（2017年5月-2018年4月）
+
+#### 捷律出行
+
+[【预览】](http://www.feixiangchuxing.com) 
+
+项目介绍：捷律出行官网是一款在线约车网站，网站采用高德地图API接口amap.js来进行地图接口模块的开发，订单页面使用Vue.js来进行数据驱动，整个系统制作周期为五天。
+
+主要职责：主要负责项目技术选型、开发及后端对接。
+
+主要功能：
+
+- 预览登入
+  - 登录
+  - 注册
+  - 忘记密码
+- 在线约车
+  - 点选地址获取信息
+  - 模糊输入自动提示地址
+  - 根据始终点车类自动计算价格
+- 个人中心
+  - 资料修改
+  - 地址管理
+  - 评价管理
+  - 行程管理
+  - 发票管理  
+  - 钱包管理
+
+技术栈：
+
+- jquery 
+- Vue (数据驱动)
+- amap（地图接口解决方案）
+- swiper（滑动切换方案）
+- datetimepicker（时间选择方案）
+- localStorage (本地存储方案)
+
+项目页面：
+
+![](https://user-images.githubusercontent.com/18715564/44456124-5e91f700-a632-11e8-91be-f247f1fcfc0d.png)
+
+![](https://user-images.githubusercontent.com/18715564/44456609-8fbef700-a633-11e8-80ea-272b7e971702.png)
+
+
+#### 未完待续...
+
+
+
+### 芜湖中菱机电设备有限公司（2016年7月-2017年5月）
+
+主要职责：负责项目静态页面的开发，将设计图切图按照W3C标准制作成HTML页面，利用JavaScript及JQuery实现网站特效，且养成了良好的代码编写习惯。
 
 
 ## 开源项目
@@ -72,7 +143,7 @@
 - 昼夜主题切换 
 - 导航滚动特效
 - PV / UX 数据统计
-- 博客文章 / 分页 / 人性化时间 / 评论
+- 博客文章 / md格式解析样式 / 分页 / 人性化时间 / 评论
 - 动态切换第三方远程字体图标链接
 - 摄影模块Grid布局
 - 照片左右滑动预览PS前后特效
