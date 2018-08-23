@@ -70,7 +70,7 @@
 
 主要职责：主要负责项目技术选型、页面开发、前后端对接、弹窗等组件封装。
 
-主要功能：
+<details><summary>主要功能：</summary><br>
 
 - 预览登入
   - 登录
@@ -87,6 +87,8 @@
   - 行程管理
   - 发票管理  
   - 钱包管理
+
+</details>
 
 技术栈：
 
@@ -116,7 +118,8 @@
 
 主要职责：主要负责微信端项目技术选型、页面开发、前后端对接，后台管理端页面开发及援助后端开发。
 
-微信端功能：
+<details><summary>微信端功能：</summary><br>
+
 
 - 首页
   - 登录
@@ -146,11 +149,14 @@
   - 经理/督导权限订单审核
   - 经理/督导权限订单记录导出
 
+</details>
+
 微信端页面：
 
 <img width="30%" src="https://user-images.githubusercontent.com/18715564/44500846-30a5c480-a6bd-11e8-8e4c-a80a8078d9ed.png"> <img width="30%" src="https://user-images.githubusercontent.com/18715564/44500863-4ca96600-a6bd-11e8-9563-0b04a2ae3bf5.png"> <img width="30%" src="https://user-images.githubusercontent.com/18715564/44501083-49fb4080-a6be-11e8-90bd-ea75eeb9b52c.png">
 
-后台功能:
+<details><summary>后台功能:</summary><br>
+
 
 - 客户系统
   - 客户资料管理
@@ -180,6 +186,8 @@
   - 物流接口配置
   - 权限配置
 
+</details>
+
 后台页面: (页面贴出均为演示数据)
 
 ![image](https://user-images.githubusercontent.com/18715564/44502076-68633b00-a6c2-11e8-8853-a0349991a572.png)
@@ -199,7 +207,7 @@
 
 主要职责：主要负责项目技术选型、APP开发、不同平台功能适配、APP打包签名上架热更新。
 
-主要功能：
+<details><summary>主要功能：</summary><br>
 
 - 首页
   - 搜索
@@ -225,6 +233,10 @@
     - 反馈
     - 等等...(我忘记了2333)
 
+
+</details>
+
+
 APP页面：
 
 <img width="30%" src="https://user-images.githubusercontent.com/18715564/44502359-bf1d4480-a6c3-11e8-806e-b8c1ab0bf3f3.jpg"> 
@@ -237,7 +249,7 @@ APP页面：
 
 主要职责：主要负责项目技术选型、APP开发、不同平台功能适配、APP打包签名上架。
 
-主要功能：
+<details><summary>主要功能：</summary><br>
 
 - 开屏广告
 - 登录/注册/忘记密码
@@ -325,6 +337,8 @@ APP页面：
     - 用户守则及隐私权查看
     - 退出登录
     - 等等
+
+</details>
 
 APP页面：
 
