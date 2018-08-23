@@ -11,7 +11,7 @@
 - QQ/微信：1178539345
 
 ## 技术清单
-- 熟练使用HTML5、CSS3，熟悉Less、rem、flex等技术，对浏览器兼容问题、移动端适配问题有一定的经验和解决方案
+- 熟练使用HTML5、CSS3，熟悉Less、rem、vw、flex等技术，对浏览器兼容问题、移动端适配问题有一定的经验和解决方案
 - 熟练掌握JavaScript，熟悉ES5、ES6，熟练使用Vue/jQuery/Bootstrap框架，熟悉echart.js，amap.js，moment.js，day.js等类库，了解响应式布局和数据可视化
 - 熟悉RestAPI后端接口处理、跨域处理方式，能够运用 Jsonp、cors、Proxy技术实现跨域请求数据
 - 熟悉MVVM模式，熟悉vue-cli,vue-router,axios,vuex的使用
