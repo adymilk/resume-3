@@ -89,7 +89,7 @@
   - 钱包管理
 
 </details>
-
+<br>
 技术栈：
 
 - jquery 
@@ -150,7 +150,7 @@
   - 经理/督导权限订单记录导出
 
 </details>
-
+<br>
 微信端页面：
 
 <img width="30%" src="https://user-images.githubusercontent.com/18715564/44500846-30a5c480-a6bd-11e8-8e4c-a80a8078d9ed.png"> <img width="30%" src="https://user-images.githubusercontent.com/18715564/44500863-4ca96600-a6bd-11e8-9563-0b04a2ae3bf5.png"> <img width="30%" src="https://user-images.githubusercontent.com/18715564/44501083-49fb4080-a6be-11e8-90bd-ea75eeb9b52c.png">
@@ -187,7 +187,7 @@
   - 权限配置
 
 </details>
-
+<br>
 后台页面: (页面贴出均为演示数据)
 
 ![image](https://user-images.githubusercontent.com/18715564/44502076-68633b00-a6c2-11e8-8853-a0349991a572.png)
@@ -235,7 +235,7 @@
 
 
 </details>
-
+<br>
 
 APP页面：
 
@@ -339,7 +339,7 @@ APP页面：
     - 等等
 
 </details>
-
+<br>
 APP页面：
 
 找不到了...Σ(っ°Д°;)っ
