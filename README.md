@@ -27,7 +27,7 @@
 
 ### 北风网（2018年4月-至今）
 
-#### 北风网移动端
+#### :iphone: 北风网移动端
 
 [【预览】](http://m.ibeifeng.com) 
 
@@ -50,7 +50,7 @@
 
 <img width="30%" src="https://user-images.githubusercontent.com/18715564/44453952-dfe68b00-a62c-11e8-9dab-ed264aaa7d1c.png">  <img width="30%" src="https://user-images.githubusercontent.com/18715564/44454130-466ba900-a62d-11e8-839e-506dd54ae03c.png">  <img width="30%" src="https://user-images.githubusercontent.com/18715564/44454205-7dda5580-a62d-11e8-880d-04b68566b8e5.png">
 
-#### 北风网PC端
+#### :computer:北风网PC端
 
 [【预览】](http://www.ibeifeng.com) 
 
@@ -70,7 +70,7 @@
 
 ### 上海睦诚商务有限公司（2017年5月-2018年4月）
 
-#### 捷律出行
+#### :taxi: 捷律出行
 
 [【预览】](http://www.feixiangchuxing.com) 百度搜索【捷律出行】
 
@@ -119,7 +119,7 @@
 ![](https://user-images.githubusercontent.com/18715564/44456609-8fbef700-a633-11e8-80ea-272b7e971702.png)
 
 
-#### 索玛商城微信端及后台管理系统
+#### :handbag: 索玛商城微信端及后台管理系统
 
 [【预览】](http://suoma.181.021mc.net/) 微信公众号搜索【索玛suoma】或【suomapg】，关注公众号，点击VIP订货
 
@@ -166,9 +166,6 @@
 
 </details>
 <br>
-**微信端页面**：
-
-<img width="30%" src="https://user-images.githubusercontent.com/18715564/44500846-30a5c480-a6bd-11e8-8e4c-a80a8078d9ed.png"> <img width="30%" src="https://user-images.githubusercontent.com/18715564/44500863-4ca96600-a6bd-11e8-9563-0b04a2ae3bf5.png"> <img width="30%" src="https://user-images.githubusercontent.com/18715564/44501083-49fb4080-a6be-11e8-90bd-ea75eeb9b52c.png">
 
 <details><summary>后台功能:(功能过多，点击显示全部)</summary><br>
 
@@ -204,6 +201,11 @@
 </details>
 <br>
 
+**微信端页面**：(页面贴出均为演示数据)
+
+<img width="30%" src="https://user-images.githubusercontent.com/18715564/44500846-30a5c480-a6bd-11e8-8e4c-a80a8078d9ed.png"> <img width="30%" src="https://user-images.githubusercontent.com/18715564/44500863-4ca96600-a6bd-11e8-9563-0b04a2ae3bf5.png"> <img width="30%" src="https://user-images.githubusercontent.com/18715564/44501083-49fb4080-a6be-11e8-90bd-ea75eeb9b52c.png">
+
+
 **后台页面**: (页面贴出均为演示数据)
 
 
@@ -214,7 +216,7 @@
 ![image](https://user-images.githubusercontent.com/18715564/44501972-fb4fa580-a6c1-11e8-9b69-244d4c44cd2e.png)
 
 
-#### 临沂大市场APP
+#### :handbag: 临沂大市场APP
 
 请在APPStore和应用宝自行搜索
 
@@ -256,11 +258,9 @@
 
 **APP页面**：
 
-<img width="30%" src="https://user-images.githubusercontent.com/18715564/44502359-bf1d4480-a6c3-11e8-806e-b8c1ab0bf3f3.jpg"> 
-<img width="30%" src="https://user-images.githubusercontent.com/18715564/44502361-bfb5db00-a6c3-11e8-937e-cfd771c3612e.jpg"> 
-<img width="30%" src="https://user-images.githubusercontent.com/18715564/44502363-c0e70800-a6c3-11e8-9cc2-dc5a976784b1.jpg">
+<img width="30%" src="https://user-images.githubusercontent.com/18715564/44502359-bf1d4480-a6c3-11e8-806e-b8c1ab0bf3f3.jpg">  <img width="30%" src="https://user-images.githubusercontent.com/18715564/44502361-bfb5db00-a6c3-11e8-937e-cfd771c3612e.jpg">  <img width="30%" src="https://user-images.githubusercontent.com/18715564/44502363-c0e70800-a6c3-11e8-9cc2-dc5a976784b1.jpg">
 
-#### 爱摊位APP
+#### :handbag: 爱摊位APP
 
 **项目介绍**：爱摊位APP是一款多摊位用户发布租赁的跨平台APP，采用MUI开发框架进行开发，h5+调用原生组件，利用Vue作为项目数据驱动，融云接口作为聊天系统基础，调用GoogleMap作为地图接口基础，整个项目包括租赁摊位、发布摊位、评价、投诉、收藏、聊天、推送等功能。
 
