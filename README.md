@@ -403,9 +403,12 @@
 
 项目采用Vue全家桶来开发单页面应用，UI采用了MuseUI，后端采用了Baas云服务Leancloud数据存储及RestAPI，在优化方面，采用了webpack对项目进行打包，在项目中使用路由懒加载，图片懒加载，keep-alive页面缓存来对项目进行性能优化。
 
-**项目页面**：
+<details><summary>项目页面：</summary><br>
 
 <img width="30%" src="https://camo.githubusercontent.com/c1325f7776cf011d7bd8469b6167649bd845df45/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303832393132333034"> <img width="30%" src="https://camo.githubusercontent.com/dc96fa640124284afd05e05611239a0d6885a694/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303833303038323031"> <img width="30%" src="https://camo.githubusercontent.com/00522903988d01e1be3f84106586bcc65d4196ad/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313730373132303833303435323532">
+
+</details>
+<br>
 
 ### :black_nib: 小桥酒馆博客
 
