@@ -82,7 +82,7 @@
 
 主要负责项目技术选型、页面开发、前后端对接、弹窗等组件封装。
 
-<details><summary>主要功能：</summary><br>
+<details><summary>主要功能：(功能过多，点击显示全部)</summary><br>
 
 - 预览登入
   - 登录
@@ -102,6 +102,7 @@
 
 </details>
 <br>
+
 **技术栈**：
 
 - jquery 
@@ -132,7 +133,7 @@
 
 主要负责微信端项目技术选型、页面开发、前后端对接，后台管理端页面开发及援助后端开发。
 
-<details><summary>微信端功能：</summary><br>
+<details><summary>微信端功能：(功能过多，点击显示全部)</summary><br>
 
 
 - 首页
@@ -169,7 +170,7 @@
 
 <img width="30%" src="https://user-images.githubusercontent.com/18715564/44500846-30a5c480-a6bd-11e8-8e4c-a80a8078d9ed.png"> <img width="30%" src="https://user-images.githubusercontent.com/18715564/44500863-4ca96600-a6bd-11e8-9563-0b04a2ae3bf5.png"> <img width="30%" src="https://user-images.githubusercontent.com/18715564/44501083-49fb4080-a6be-11e8-90bd-ea75eeb9b52c.png">
 
-<details><summary>后台功能:</summary><br>
+<details><summary>后台功能:(功能过多，点击显示全部)</summary><br>
 
 
 - 客户系统
@@ -223,7 +224,7 @@
 
 **主要职责**：主要负责项目技术选型、APP开发、不同平台功能适配、APP打包签名上架热更新。
 
-<details><summary>主要功能：</summary><br>
+<details><summary>主要功能：(功能过多，点击显示全部)</summary><br>
 
 - 首页
   - 搜索
@@ -265,7 +266,7 @@
 
 **主要职责**：主要负责项目技术选型、APP开发、不同平台功能适配、APP打包签名上架。
 
-<details><summary>主要功能：</summary><br>
+<details><summary>主要功能：(功能过多，点击显示全部)</summary><br>
 
 - 开屏广告
 - 登录/注册/忘记密码
